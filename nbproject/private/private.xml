@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="12">
+        <file>
+            <url>app/Controller/AdminsController.php</url>
+            <bookmark id="2">
+                <name/>
+                <line>237</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name/>
+                <line>323</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>323</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>323</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>app/Controller/NewsController.php</url>
+            <bookmark id="8">
+                <name/>
+                <line>188</line>
+                <key/>
+            </bookmark>
+            <bookmark id="6">
+                <name/>
+                <line>216</line>
+                <key/>
+            </bookmark>
+            <bookmark id="12">
+                <name/>
+                <line>448</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>app/Controller/FrontendsController.php</url>
+            <bookmark id="7">
+                <name/>
+                <line>62</line>
+                <key/>
+            </bookmark>
+            <bookmark id="10">
+                <name/>
+                <line>77</line>
+                <key/>
+            </bookmark>
+            <bookmark id="11">
+                <name/>
+                <line>100</line>
+                <key/>
+            </bookmark>
+            <bookmark id="9">
+                <name/>
+                <line>147</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/xampp/htdocs/tbn24/app/View/Frontends/index.ctp</file>
+            <file>file:/E:/xampp/htdocs/tbn24/app/Controller/NewsController.php</file>
+            <file>file:/E:/xampp/htdocs/tbn24/app/Controller/FrontendsController.php</file>
+            <file>file:/E:/xampp/htdocs/tbn24/app/View/News/homesetting.ctp</file>
+        </group>
+    </open-files>
+</project-private>
